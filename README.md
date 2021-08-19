@@ -41,10 +41,10 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### Equipo
+### Equipo:
 
-* Estudiante 1 
+* Leonardo Darwin Ortiz Perez
 * Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Jennifer Evelyn Estrada Medina
+
 
