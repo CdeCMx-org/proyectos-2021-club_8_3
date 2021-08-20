@@ -35,6 +35,7 @@ C.	Se procede a elegir qué receptores tipo toll (TLRs, por sus siglas en inglé
 ### VPH tipo 18 + TLR 4
 
 ![](Proteina_1_0.JPG)
+
 ![](Proteina_1_1.JPG)
 
 Un estudio realizado por Hasimu A. y otros (2) evidenció que la expresión de TLR4, 7 y 9 varía significativamente en el tejido de cáncer cervical, donde los niveles de expresión de TLR4 y TLR9 correlacionaron positivamente con la infección del VPH16 y VPH18.
@@ -44,19 +45,43 @@ TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas
 #### Virus del Ébola + TLR3
 
 ![](proteina20.JPG)
+
 ![](proteina21.JPG)
 
 Los TLR de membrana endosomal van a reconocer moléculas intracelulares, como el TLR-3 que reconoce ARN BC (ARN bicatenario).
 Aunque el virus del ébola contiene ARN monocatenario se quiere averiguar si existe alguna posibilidad de compatibilidad.
 
 
+D.	Con la ayuda de la página de internet “HDOCK SERVER”, el cual acopla a la proteína y el TLR basado en un algoritmo híbrido de modelado. A este proceso se conoce como “Docking o acoplamiento molecular”, el cual predice la conformación preferida de una molécula, con el objetivo de formar un complejo estable. El modelo 1 es el que normalmente es el que demuestra una conformación más estable. 
+
+E.	Ya que se ha elegido el modelo que supuestamente es de una conformación más estable, se procede a conocer el valor de la ΔG (energía libre de Gibbs), el cual nos indicará que tiene mucha afinidad si presenta un valor negativo. Esto se realiza en la página de internet “PRODIGY (PROtein binDIng enerGY prediction)”.
+
+F.	Y como último paso, se procede a utilizar la página de internet “PDB SUM”, para conocer el número de enlaces que se forman entre la proteína y el TLR de cada uno de los virus que se han elegido y la forma en la que éstos se encuentran (enlaces aminoácido – aminoácido).
 
 
 ### Resultados
 
-•	VPH18 + TLR 4
+### VPH tipo 18 + TLR 4
+
 Se evaluó la afinidad de la VPH18 y el TLR4 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus.  
 
+De la página de “HDOCK” se tomará en cuenta los valores de “ligando rmsd (Å), mientras más pequeño sea el valor será mejor. 
+El modelo 1 muestra un valor de ligando rmsd de 85.06 Å. 
+En la página de PRODIGY se obtuvo una energía libre de Gibbs de -30.1, mostrando que el VPH18 y el TLR4 tienen buena afinidad.
+
+
+#### Virus del Ébola + TLR3
+
+
+Se evaluó la afinidad del virus del ébola y el TLR3 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus. 
+De la página de “HDOCK” se tomará en cuenta los valores de “ligando rmsd (Å), mientras más pequeño sea el valor será mejor. 
+El modelo 9 muestra un valor de ligando rmsd de 187.96 Å.
+En la página de PRODIGY se obtuvo una energía libre de Gibbs de -7.2 kcal mol-1, mostrando que el VPH18 y el TLR4 tienen muy poca afinidad.
+
+
+Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
+
+Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
 ![](Logo_CdeCMx.png)
 
@@ -65,6 +90,11 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 
 ### Conclusiones
+
+Se pudo observar las interacciones que tienen el VPH18 con el TLR4 y el del virus del Ébola con el TLR3. Se obtuvieron resultados favorables en el Decking que se hizo entre el VPH18 y el TLR4, mostrando que pudiese tener reacciones positivas en el tratamiento de este virus, basándonos en que como la proteína principal de la cápside L1 del virus se encuentra en el exterior y justamente el TLR4 es un receptor de membrana celular. 
+Pero sucede todo lo contrario con el acoplamiento molecular entre el Virus del Ébola VP24 y el TLR3, ya que a pesar de que este receptor es de reconocimiento de moléculas intracelulares. Se fundamenta que la conformación formada por ambos no es estable debido a que el TL3 reconoce ARN bicatenario y el virus del ébola consiste en ARN monocatenario.
+Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas digitales para seguir aprendiendo de las interacciones de estos acoplamientos moleculares y llegar a conformaciones estables que ayuden en el desarrollo de vacunas para mejorar al sistema inmunitario.
+
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
