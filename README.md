@@ -1,4 +1,4 @@
-`![](Logo_CdeCMx.png)`.
+
 
 ![](Logo_CdeCMx.png)
 ## TLR vs VPH y Ebola 
