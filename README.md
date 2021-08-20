@@ -35,8 +35,10 @@ C.	Se procede a elegir qué receptores tipo toll (TLRs, por sus siglas en inglé
 ### VPH tipo 18 + TLR 4
 
 `![](Proteina_1_0.jpg)`
+![](Proteina_1_0.jpg)
 
 `![](Proteina_1_1.jpg)`
+![](Proteina_1_1.jpg)
 
 
 Un estudio realizado por Hasimu A. y otros (2) evidenció que la expresión de TLR4, 7 y 9 varía significativamente en el tejido de cáncer cervical, donde los niveles de expresión de TLR4 y TLR9 correlacionaron positivamente con la infección del VPH16 y VPH18.
@@ -46,8 +48,10 @@ TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas
 #### Virus del Ébola + TLR3 
 
 `![](proteina20.jpg)`
+![](proteina20.jpg)
 
 `![](proteina21.jpg)`
+![](proteina21.jpg)
 
 Los TLR de membrana endosomal van a reconocer moléculas intracelulares, como el TLR-3 que reconoce ARN BC (ARN bicatenario).
 Aunque el virus del ébola contiene ARN monocatenario se quiere averiguar si existe alguna posibilidad de compatibilidad.
