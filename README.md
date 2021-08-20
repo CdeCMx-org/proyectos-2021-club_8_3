@@ -42,9 +42,10 @@ Un estudio realizado por Hasimu A. y otros (2) evidenció que la expresión de T
 Como el TLR 4 es un TLR de membrana celular, es adecuado para que se acople con la proteína principal de la cápside L1 del virus del papiloma humano tipo 18.
 TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas, las proteínas de choque térmico (HSP) de 60 y 70 kDa, entre otros.
 
-#### Virus del Ébola + TLR3
+#### Virus del Ébola + TLR3 
 
-![](proteina20.JPG)
+`![](proteina20.jpg)`
+![](proteina20.jpg)
 
 ![](proteina21.JPG)
 
