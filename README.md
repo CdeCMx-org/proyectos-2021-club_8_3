@@ -54,9 +54,9 @@ Aunque el virus del ébola contiene ARN monocatenario se quiere averiguar si exi
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
+•	VPH18 + TLR 4
+Se evaluó la afinidad de la VPH18 y el TLR4 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus.  
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
 ![](Logo_CdeCMx.png)
 
