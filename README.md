@@ -8,15 +8,36 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+Desde tiempos antiguos nuestro cuerpo ha luchado por evolucionar y adaptarse a distintas situaciones de riesgo, y esto se intensifica más cuando se debe enfrentar contra algún tipo de patógeno tales como los virus. Puede ser algo complejo entender cómo el cuerpo humano puede darle batalla a estos antígenos que pueden perdurar por años, sin embargo, gracias al avance tecnológico y científico es posible darle una ayuda al sistema inmunitario humano para acelerar el proceso de protección contra estos virus. 
+
+El tercer Objetivo de Desarrollo Sostenible (ODS) está focalizado a la salud y bienestar, el cual busca garantizar una vida sana y promover el bienestar para todos en todas las edades. Es en este objetivo que se inspiró para realizar este Club de ciencia llamado “Virus o anticuerpos, quién se adapta más rápido y cómo”, ya que lo que se busca por medio de investigación y desarrollo en el ámbito médico, disminuir la mortalidad por los virus tan agresivos como el que hoy en día estamos luchando por erradicar (SARS-CoV-2).
+
+Con la ayuda del análisis computacional y la biología, se tomaron como ejemplos al VPH (Virus del Papiloma Humano) y al virus del Ébola para entender cómo los anticuerpos nos protegen contra los virus.
+
 
 ### Métodología
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+A.	Como primer paso, se eligieron estas dos proteínas de la base de datos “Protein Data Bank (PDB)”:
+  1.	Estructura del pentámero de la proteína principal de la cápside L1 del virus del papiloma humano tipo 18. ID PDB: 2R5I.
+  
+ Las siglas VPH significan virus del papiloma humano (HPV, por sus siglas en inglés). El VPH se conforma por un grupo numeroso de virus relacionados. 
+A cada variedad de virus en el grupo se le asigna un número, lo que es llamado tipo de VPH. 
+Los tipos comunes de VPH de alto riesgo incluyen los tipos 16 y 18 del virus.
+
+   2.	Virus del Ébola VP24 (EBOV) en complejo con carioferina alfa 5 C-terminal. ID PDB: 4U2X.
+ La proteína viral del Ébola se considera una proteína de matriz secundaria multifuncional presente en partículas virales. 
+En el centro de la desregulación inducida por el Ébola se encuentra una temprana y coordinada actuación de las proteínas VP24, VP30 y VP35, que conduce a niveles elevados de replicación viral, a una inapropiada temporización de la cascada de liberación de linfocinas y a la muerte, tanto de células presentadoras de antígenos, como de células efectoras.
+
+B.	Al reconocer el ID en el que los virus se identifican en la página “RCSB PDB”, se dispone a utilizar el programa “Chimera”, el cual nos ayudará a limpiar la estructura de cada uno para dejar solamente la proteína del virus. 
+
+C.	Se procede a elegir qué receptores tipo toll (TLRs, por sus siglas en inglés) se utilizarán para acoplarlos en la proteína de los virus. Éstos son sensores de reconocimiento de membrana evolutivamente conservados, constituyen una familia de proteínas que forman parte del sistema inmunitario innato. Podría decirse que son activadores clave de la respuesta inmunológica. Sin embargo, se debe elegir cuidadosamente ya que cada TLR tiene ciertas características que los hace más afines a ciertas proteínas de virus. 
+
+### VPH tipo 18 + TLR 4
+
+Un estudio realizado por Hasimu A. y otros (2) evidenció que la expresión de TLR4, 7 y 9 varía significativamente en el tejido de cáncer cervical, donde los niveles de expresión de TLR4 y TLR9 correlacionaron positivamente con la infección del VPH16 y VPH18.
+Como el TLR 4 es un TLR de membrana celular, es adecuado para que se acople con la proteína principal de la cápside L1 del virus del papiloma humano tipo 18.
+TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas, las proteínas de choque térmico (HSP) de 60 y 70 kDa, entre otros.
+
 
 ### Resultados
 
