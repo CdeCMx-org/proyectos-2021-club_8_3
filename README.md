@@ -1,3 +1,6 @@
+`![](Logo_CdeCMx.png)`.
+
+![](Logo_CdeCMx.png)
 ## TLR vs VPH y Ebola 
 
 Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
@@ -69,6 +72,13 @@ F.	Y como último paso, se procede a utilizar la página de internet “PDB SUM�
 
 ### VPH tipo 18 + TLR 4
 
+`![](Proteina_1_0.jpg)`
+![](Proteina_1_0.jpg)
+
+
+`![](Proteina_1_1.jpg)`
+![](Proteina_1_1.jpg)
+
 Se evaluó la afinidad de la VPH18 y el TLR4 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus.  
 
 De la página de “HDOCK” se tomará en cuenta los valores de “ligando rmsd (Å), mientras más pequeño sea el valor será mejor. 
@@ -104,6 +114,15 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 Se pudo observar las interacciones que tienen el VPH18 con el TLR4 y el del virus del Ébola con el TLR3. Se obtuvieron resultados favorables en el Decking que se hizo entre el VPH18 y el TLR4, mostrando que pudiese tener reacciones positivas en el tratamiento de este virus, basándonos en que como la proteína principal de la cápside L1 del virus se encuentra en el exterior y justamente el TLR4 es un receptor de membrana celular. 
 Pero sucede todo lo contrario con el acoplamiento molecular entre el Virus del Ébola VP24 y el TLR3, ya que a pesar de que este receptor es de reconocimiento de moléculas intracelulares. Se fundamenta que la conformación formada por ambos no es estable debido a que el TL3 reconoce ARN bicatenario y el virus del ébola consiste en ARN monocatenario.
 Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas digitales para seguir aprendiendo de las interacciones de estos acoplamientos moleculares y llegar a conformaciones estables que ayuden en el desarrollo de vacunas para mejorar al sistema inmunitario.
+
+
+### BIBLIOGRAFÍA
+1.	Arribillaga L, Echeverria I, Belsue V, Gomez T, Lozano T, Casares N, Villanueva L, Domingos-Pereira S, Romero PJ, Nardelli-Haefliger D, Hervás-Stubbs S, Sarobe P, Rodriguez MJ, Carrascosa JL, Zürcher T, Lasarte JJ. Bivalent therapeutic vaccine against HPV16/18 genotypes consisting of a fusion protein between the extra domain A from human fibronectin and HPV16/18 E7 viral antigens. J Immunother Cancer. 2020 Jun;8(1):e000704. doi: 10.1136/jitc-2020-000704. PMID: 32581060; PMCID: PMC7319778.
+2.	Heredia Ruíz, D., Herrera Martínez, C., & Fernández Caraballo, D. (2019). Vías de señalización celular implicadas en la carcinogénesis cervical. Revista Cubana de Obstetricia y Ginecología, 45(3). Recuperado de http://www.revginecobstetricia.sld.cu/index.php/gin/article/view/491/410
+3.	Durán, Anyelo, Álvarez-Mon, Melchor, & Valero, Nereida. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81. Recuperado en 20 de agosto de 2021, de http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0535-51332014000100008&lng=es&tlng=es.
+4.	Betancourt Álvarez, Pablo Ricardo, Luján Risco, Yusimy, Ramírez Zayas, Roger, & Calderín Marín, Osaida. (2015). Ébolavirus: biología molecular y evasión de la respuesta inmune. Revista Cubana de Hematología, Inmunología y Hemoterapia, 31(4) Recuperado en 20 de agosto de 2021, de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0864-02892015000400005&lng=es&tlng=es.
+5.	Santos-López, G., Márquez-Domínguez, L., Reyes-Leyva, J., & Vallejo-Ruiz, V. (2015). Aspectos generales de la estructura, la clasificación y la replicación del virus del papiloma humano. Revista Médica del Instituto Mexicano del Seguro Social, 53(S2), 166-171.
+6.	Heredia Ruíz, D., Herrera Martínez, C. M., & Fernández Caraballo, D. (2019). Vías de señalización celular implicadas en la carcinogénesis cervical. Revista Cubana de Obstetricia y Ginecología, 45(3).
 
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
