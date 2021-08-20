@@ -44,7 +44,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo:
 
 * Leonardo Darwin Ortiz Perez
-* Estudiante 2
+* Ileany Noemi Avila Chay
 * Jennifer Evelyn Estrada Medina
 
 
