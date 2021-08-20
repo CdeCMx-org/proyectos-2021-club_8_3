@@ -84,6 +84,10 @@ El modelo 9 muestra un valor de ligando rmsd de 187.96 Å.
 En la página de PRODIGY se obtuvo una energía libre de Gibbs de -7.2 kcal mol-1, mostrando que el VPH18 y el TLR4 tienen muy poca afinidad.
 
 
+`![](Tabla.jpg)`
+![](Tabla.jpg)
+
+
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
