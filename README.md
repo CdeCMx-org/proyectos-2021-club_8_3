@@ -88,6 +88,11 @@ En la página de PRODIGY se obtuvo una energía libre de Gibbs de -30.1, mostran
 
 #### Virus del Ébola + TLR3
 
+`![](proteina22.jpg)`
+![](proteina22.jpg)
+
+`![](proteina23.jpg)`
+![](proteina23.jpg)
 
 Se evaluó la afinidad del virus del ébola y el TLR3 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus. 
 De la página de “HDOCK” se tomará en cuenta los valores de “ligando rmsd (Å), mientras más pequeño sea el valor será mejor. 
@@ -125,7 +130,6 @@ Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas d
 6.	Heredia Ruíz, D., Herrera Martínez, C. M., & Fernández Caraballo, D. (2019). Vías de señalización celular implicadas en la carcinogénesis cervical. Revista Cubana de Obstetricia y Ginecología, 45(3).
 
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
