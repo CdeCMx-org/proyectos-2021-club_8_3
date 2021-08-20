@@ -3,11 +3,6 @@
 ![](Logo_CdeCMx.png)
 ## TLR vs VPH y Ebola 
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
 
@@ -45,6 +40,10 @@ C.	Se procede a elegir qué receptores tipo toll (TLRs, por sus siglas en inglé
 ![](Proteina_1_1.jpg)
 
 
+`![](vídeo de proteina 1.mp4)`
+![](vídeo de proteina 1.mp4)
+
+
 Un estudio realizado por Hasimu A. y otros (2) evidenció que la expresión de TLR4, 7 y 9 varía significativamente en el tejido de cáncer cervical, donde los niveles de expresión de TLR4 y TLR9 correlacionaron positivamente con la infección del VPH16 y VPH18.
 Como el TLR 4 es un TLR de membrana celular, es adecuado para que se acople con la proteína principal de la cápside L1 del virus del papiloma humano tipo 18.
 TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas, las proteínas de choque térmico (HSP) de 60 y 70 kDa, entre otros.
@@ -56,6 +55,9 @@ TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas
 
 `![](proteina21.jpg)`
 ![](proteina21.jpg)
+
+`![](vídeo de proteina 2.mp4)`
+![](vídeo de proteina 2.mp4)
 
 Los TLR de membrana endosomal van a reconocer moléculas intracelulares, como el TLR-3 que reconoce ARN BC (ARN bicatenario).
 Aunque el virus del ébola contiene ARN monocatenario se quiere averiguar si existe alguna posibilidad de compatibilidad.
@@ -104,14 +106,6 @@ En la página de PRODIGY se obtuvo una energía libre de Gibbs de -7.2 kcal mol-
 ![](Tabla.jpg)
 
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
 
 
 ### Conclusiones
