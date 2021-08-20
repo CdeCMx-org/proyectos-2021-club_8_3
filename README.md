@@ -62,7 +62,6 @@ TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas
 Los TLR de membrana endosomal van a reconocer moléculas intracelulares, como el TLR-3 que reconoce ARN BC (ARN bicatenario).
 Aunque el virus del ébola contiene ARN monocatenario se quiere averiguar si existe alguna posibilidad de compatibilidad.
 
-
 D.	Con la ayuda de la página de internet “HDOCK SERVER”, el cual acopla a la proteína y el TLR basado en un algoritmo híbrido de modelado. A este proceso se conoce como “Docking o acoplamiento molecular”, el cual predice la conformación preferida de una molécula, con el objetivo de formar un complejo estable. El modelo 1 es el que normalmente es el que demuestra una conformación más estable. 
 
 E.	Ya que se ha elegido el modelo que supuestamente es de una conformación más estable, se procede a conocer el valor de la ΔG (energía libre de Gibbs), el cual nos indicará que tiene mucha afinidad si presenta un valor negativo. Esto se realiza en la página de internet “PRODIGY (PROtein binDIng enerGY prediction)”.
