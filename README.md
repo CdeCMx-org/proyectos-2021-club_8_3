@@ -93,6 +93,7 @@ En la página de PRODIGY se obtuvo una energía libre de Gibbs de -30.1, mostran
 ![](proteina22.jpg)
 
 
+
 ![](proteina23.jpg)
 
 Se evaluó la afinidad del virus del ébola y el TLR3 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus. 
