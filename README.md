@@ -50,10 +50,10 @@ TLR4 reconoce el lipopolisacárido (LPS) de la pared de bacterias Gram negativas
 
 #### Virus del Ébola + TLR3 
 
-`![](proteina20.jpg)`
+
 ![](proteina20.jpg)
 
-`![](proteina21.jpg)`
+
 ![](proteina21.jpg)
 
 `![](vídeo de proteina 2.mp4)`
