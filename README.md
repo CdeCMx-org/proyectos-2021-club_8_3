@@ -37,7 +37,7 @@ C.	Se procede a elegir qué receptores tipo toll (TLRs, por sus siglas en inglé
 
 
 `![](Proteina_1_1.jpg)`
-![](Proteina_1_1.jpg)
+![](Proteina_1_1.png)
 
 
 `![](vídeo de proteina 1.mp4)`
