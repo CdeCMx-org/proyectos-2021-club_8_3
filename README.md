@@ -89,10 +89,10 @@ En la página de PRODIGY se obtuvo una energía libre de Gibbs de -30.1, mostran
 
 #### Virus del Ébola + TLR3
 
-`![](proteina22.jpg)`
+
 ![](proteina22.jpg)
 
-`![](proteina23.jpg)`
+
 ![](proteina23.jpg)
 
 Se evaluó la afinidad del virus del ébola y el TLR3 para conocer si es recomendable para realizar algún tipo de vacuna contra este virus. 
@@ -101,7 +101,7 @@ El modelo 9 muestra un valor de ligando rmsd de 187.96 Å.
 En la página de PRODIGY se obtuvo una energía libre de Gibbs de -7.2 kcal mol-1, mostrando que el VPH18 y el TLR4 tienen muy poca afinidad.
 
 
-`![](Tabla.jpg)`
+
 ![](Tabla.jpg)
 
 
