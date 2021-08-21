@@ -127,6 +127,11 @@ Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas d
 
 
 ### Video
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylZTZl0PbiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
