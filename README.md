@@ -132,12 +132,6 @@ Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ylZTZl0PbiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
- 
 ### Equipo:
 
 * Leonardo Darwin Ortiz Perez
