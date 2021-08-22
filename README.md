@@ -1,10 +1,10 @@
 
 
 ![](Logo_CdeCMx.png)
-## TLR vs VPH y Ebola 
+# TLR vs VPH y Ebola 
 
 
-### Introducción
+## Introducción
 
 Desde tiempos antiguos nuestro cuerpo ha luchado por evolucionar y adaptarse a distintas situaciones de riesgo, y esto se intensifica más cuando se debe enfrentar contra algún tipo de patógeno tales como los virus. Puede ser algo complejo entender cómo el cuerpo humano puede darle batalla a estos antígenos que pueden perdurar por años, sin embargo, gracias al avance tecnológico y científico es posible darle una ayuda al sistema inmunitario humano para acelerar el proceso de protección contra estos virus. 
 
@@ -13,7 +13,7 @@ El tercer Objetivo de Desarrollo Sostenible (ODS) está focalizado a la salud y 
 Con la ayuda del análisis computacional y la biología, se tomaron como ejemplos al VPH (Virus del Papiloma Humano) y al virus del Ébola para entender cómo los anticuerpos nos protegen contra los virus.
 
 
-### Métodología
+## Métodología
 
 A.	Como primer paso, se eligieron estas dos proteínas de la base de datos “Protein Data Bank (PDB)”:
   1.	Estructura del pentámero de la proteína principal de la cápside L1 del virus del papiloma humano tipo 18. ID PDB: 2R5I.
@@ -70,7 +70,7 @@ E.	Ya que se ha elegido el modelo que supuestamente es de una conformación más
 F.	Y como último paso, se procede a utilizar la página de internet “PDB SUM”, para conocer el número de enlaces que se forman entre la proteína y el TLR de cada uno de los virus que se han elegido y la forma en la que éstos se encuentran (enlaces aminoácido – aminoácido).
 
 
-### Resultados
+## Resultados
 
 ### VPH tipo 18 + TLR 4
 
@@ -109,14 +109,14 @@ En la página de PRODIGY se obtuvo una energía libre de Gibbs de -7.2 kcal mol-
 
 
 
-### Conclusiones
+## Conclusiones
 
 Se pudo observar las interacciones que tienen el VPH18 con el TLR4 y el del virus del Ébola con el TLR3. Se obtuvieron resultados favorables en el Decking que se hizo entre el VPH18 y el TLR4, mostrando que pudiese tener reacciones positivas en el tratamiento de este virus, basándonos en que como la proteína principal de la cápside L1 del virus se encuentra en el exterior y justamente el TLR4 es un receptor de membrana celular. 
 Pero sucede todo lo contrario con el acoplamiento molecular entre el Virus del Ébola VP24 y el TLR3, ya que a pesar de que este receptor es de reconocimiento de moléculas intracelulares. Se fundamenta que la conformación formada por ambos no es estable debido a que el TL3 reconoce ARN bicatenario y el virus del ébola consiste en ARN monocatenario.
 Se podría seguir haciendo varias pruebas con ayuda de todas estas plataformas digitales para seguir aprendiendo de las interacciones de estos acoplamientos moleculares y llegar a conformaciones estables que ayuden en el desarrollo de vacunas para mejorar al sistema inmunitario.
 
 
-### BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 1.	Arribillaga L, Echeverria I, Belsue V, Gomez T, Lozano T, Casares N, Villanueva L, Domingos-Pereira S, Romero PJ, Nardelli-Haefliger D, Hervás-Stubbs S, Sarobe P, Rodriguez MJ, Carrascosa JL, Zürcher T, Lasarte JJ. Bivalent therapeutic vaccine against HPV16/18 genotypes consisting of a fusion protein between the extra domain A from human fibronectin and HPV16/18 E7 viral antigens. J Immunother Cancer. 2020 Jun;8(1):e000704. doi: 10.1136/jitc-2020-000704. PMID: 32581060; PMCID: PMC7319778.
 2.	Heredia Ruíz, D., Herrera Martínez, C., & Fernández Caraballo, D. (2019). Vías de señalización celular implicadas en la carcinogénesis cervical. Revista Cubana de Obstetricia y Ginecología, 45(3). Recuperado de http://www.revginecobstetricia.sld.cu/index.php/gin/article/view/491/410
 3.	Durán, Anyelo, Álvarez-Mon, Melchor, & Valero, Nereida. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81. Recuperado en 20 de agosto de 2021, de http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0535-51332014000100008&lng=es&tlng=es.
